@@ -36,6 +36,12 @@ p.jabatan-ahli {
   margin: 0px 10px;
 }
 
+.item-pembicara-ahli .card:hover {
+  background-color: #933393;
+  cursor: pointer;
+  color: white;
+}
+
 .item-pembicara-ahli img {
   width: 100%;
 }
