@@ -57,3 +57,100 @@ p.jabatan-ahli {
   width: 120px;
   margin-bottom: 20px;
 }
+/* navbar */
+.navbar {
+  z-index: 2;
+  width: 100%;
+  min-height: 72px;
+  background-color: #fff;
+  display: block;
+  position: relative;
+  top: 0%;
+  bottom: auto;
+  left: 0%;
+  right: 0%;
+}
+.btv {
+  background-color: blueviolet;
+  color: #fff;
+}
+.text {
+  color: rebeccapurple;
+}
+/* heroes */
+.bg {
+  background-color: blueviolet;
+  margin-bottom: 100px;
+}
+.hero-images {
+  height: 500px;
+  width: 300px;
+}
+.frame {
+  border: 1px solid wheat;
+  padding: 10px;
+  width: fit-content;
+  display: flex;
+  align-items: center;
+}
+.t {
+  color: #fff;
+}
+.bth {
+  background-color: #f99d1c;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin-right: 10px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+.haloniq {
+  color: aliceblue;
+}
+
+/* about us */
+.home-usp-item-img {
+  height: px;
+  width: 50px;
+}
+.p {
+  font-size: 16px;
+}
+.button-primary-outline {
+  grid-column-gap: 8px;
+  grid-row-gap: 8px;
+  border: 1px solid #933393;
+  border-radius: 8px;
+  align-items: center;
+  padding: 17px 16px;
+  display: flex;
+}
+
+.link-block-20 {
+  justify-content: center;
+  align-items: center;
+  margin-top: 48px;
+  text-decoration: none;
+  display: flex;
+}
+
+/* footer */
+.footer {
+  background-color: #ededed;
+}
+.sdg-logo {
+  width: 200px;
+}
+.company-contact-div {
+  grid-column-gap: 8px;
+  grid-row-gap: 8px;
+  display: flex;
+}
+.footer-icon {
+  width: 24px;
+  height: 24px;
+}
