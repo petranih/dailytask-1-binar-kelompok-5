@@ -44,6 +44,10 @@
   margin: 30px 0px;
 }
 
+.berita p {
+  text-align: left;
+}
+
 /* Carousel base class */
 .carousel {
   margin-bottom: 4rem;
