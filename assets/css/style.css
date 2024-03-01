@@ -1,0 +1,99 @@
+.binar-corporate {
+  background-color: #933393;
+}
+
+.title-binar-corporate,
+.text-binar-corporate {
+  color: white;
+}
+
+.item-binar-corporate {
+  /* margin: 0px 30px; */
+  border-radius: 12px;
+}
+
+.binar-corporate .card {
+  padding: 100px;
+}
+
+.btn-selengkapnya {
+  padding: 14px 30px;
+  font-size: 18px;
+  background-color: #933393;
+  border: 1px solid #933393;
+  font-weight: bold;
+}
+
+.btn-selengkapnya:hover {
+  background-color: white;
+  border: 1px solid #933393;
+  color: #933393;
+}
+
+.binar-mengajar {
+  background-color: #f99d1c;
+  padding: 30px 0px 0px 30px;
+}
+
+.binar-mengajar img {
+  width: 600px;
+}
+
+.berita {
+  height: 100%;
+  margin: 30px 0px;
+}
+
+/* Carousel base class */
+.carousel {
+  margin-bottom: 4rem;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel-item {
+  height: 22rem;
+}
+
+.berita img {
+  width: 100%;
+}
+
+.carousel {
+  width: 1200px;
+  height: 270px;
+  margin: auto;
+}
+
+.carousel-control-prev-icon {
+  background-image: url("../img/fi_chevron-left.svg") !important;
+}
+
+.carousel-control-next-icon {
+  background-image: url("../img/fi_chevron-right.svg") !important;
+}
+
+.berita h2 {
+  text-align: center;
+  color: #933393;
+}
+
+p.berita-text {
+  text-align: center;
+}
+
+.alert-purple {
+  margin-top: 100px;
+  background-color: #e9d6e9;
+}
+
+.alert-purple p {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+  color: #933393;
+}
