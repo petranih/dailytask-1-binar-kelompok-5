@@ -36,8 +36,8 @@
 }
 
 .carousel {
-  width: 832px;
-  height: 150px;
+  width: 832px !important;
+  height: 150px !important;
   margin: auto;
 }
 
@@ -65,7 +65,7 @@
   color: white;
 }
 
-.carousel-control-next-icon:after {
+/* .carousel-control-next-icon:after {
   content: '>';
   font-size: 30px;
   color: #8F00FF;
@@ -75,7 +75,7 @@
   content: '<';
   font-size: 30px;
   color: #8F00FF;
-}
+} */
 
 .binar-mengajar {
   background-color: #f99d1c;
