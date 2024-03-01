@@ -1,0 +1,50 @@
+#zaki {
+   background: purple;
+}
+#white-line {
+   border-bottom: 1px solid white;
+   margin: 10px;
+}
+.test {
+   background: #009db1;
+   display: inline-block;
+   border-radius: 10px;
+   padding: 5px 10px;
+   width: 120px;
+   /* display: flex; */
+   font-size: 12px;
+   line-height: 24px;
+   margin: 10px;
+   position: relative;
+}
+
+.flex-container {
+   display: flex;
+   align-items: center;
+}
+.title {
+   color: #933393;
+}
+.besar {
+   color: orange;
+   font-size: 100px;
+   margin-right: 30px;
+}
+.sertifikat {
+   color: purple;
+}
+.buttonbinar {
+   background-color: purple;
+   display: inline-block;
+   color: white;
+   border: none;
+   border-radius: 10px;
+   padding: 10px 20px;
+   font-size: 16px;
+   cursor: pointer;
+   transition: background-color 0.3s ease;
+}
+
+.buttonbinar:hover {
+   background-color: #6a0dad;
+}
