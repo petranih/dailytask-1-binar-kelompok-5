@@ -1,3 +1,50 @@
+.pembicara-ahli h2,
+p {
+  text-align: center;
+}
+
+.pembicara-ahli h2 {
+  color: #933393;
+  margin: 30px 0px;
+}
+
+.pembicara-ahli p {
+  margin-bottom: 30px;
+}
+
+.pembicara-ahli .row {
+  margin: auto;
+}
+
+p.nama-ahli,
+p.jabatan-ahli {
+  text-align: left;
+}
+
+p.nama-ahli {
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+p.jabatan-ahli {
+  font-size: 12px;
+}
+
+.item-pembicara-ahli {
+  text-align: center;
+  margin: 0px 10px;
+}
+
+.item-pembicara-ahli .card:hover {
+  background-color: #933393;
+  cursor: pointer;
+  color: white;
+}
+
+.item-pembicara-ahli img {
+  width: 100%;
+}
 .item-kampus-partner {
   text-align: center;
 }
